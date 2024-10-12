@@ -1,5 +1,5 @@
 # BashScript_OS_backup
-Bash script for backing up important directories in your operating system.
+Bash script for backing up important directories in operating system.
 
 # OS Backup Script
 This repository contains a Bash script named `backup.sh` for backing up important directories in your operating system. The script creates a compressed tarball of specified directories and saves it to a designated backup location.
